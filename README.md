@@ -25,7 +25,7 @@ Users should be able to:
 
 ![Desktop](./assets/screenshots/desktop.JPG "Desktop version of card component")
 
-![Mobile](/assets/screenshots/mobile-375w.jpg "Mobile version of card component")
+![Mobile](./assets/screenshots/mobile-375w.JPG "Mobile version of card component")
 
 ### Links
 
