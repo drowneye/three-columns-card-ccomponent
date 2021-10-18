@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./assets/screenshots/desktop.jpg "Desktop version of card component")
+![Desktop](./assets/screenshots/desktop.JPG "Desktop version of card component")
 
-![Mobile](./assets/screenshots/mobile-375w.jpg "Mobile version of card component")
+![Mobile](/assets/screenshots/mobile-375w.jpg "Mobile version of card component")
 
 ### Links
 
